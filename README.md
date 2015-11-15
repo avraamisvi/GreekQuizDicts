@@ -22,3 +22,5 @@ Traduza: λύω
 - (X) Eu desato
 - ( ) Opção 3
 - ( ) Opção 5
+
+Para digitar em grego antigo, existe um site com um teclado virtual: http://www.lexilogos.com/keyboard/greek_ancient.htm
