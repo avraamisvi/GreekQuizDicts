@@ -1,72 +1,74 @@
-ἅγω@eu vou; guio; conduzo@eu vou; guio; conduzo
-ἀκούω@eu ouço, escuto, entendo@eu ouço, escuto, entendo
-βάλλω@eu lanço, jogo@eu lanço, jogo
-γινώσκω@conheço, venho a conhecer, sei; compreendo, reconheço@conheço, venho a conhecer, sei; compreendo, reconheço
-γράφω@eu escrevo@eu escrevo
-διδάσκω@eu ensino@eu ensino
-εὑρίσκω@eu acho, encontro@eu acho, encontro
-θέλω@eu desejo, quero@eu desejo, quero
-λέγω@eu digo, falo@eu digo, falo
-λούω@eu lavo; voz média: me banho@eu lavo; voz média: me banho
-λύω@eu desato, solto, liberto; destruo@eu desato, solto, liberto; destruo
-σῴζω@eu salvo, liberto, preservo, livro, curo@eu salvo, liberto, preservo, livro, curo
-φυλάσσω@eu guardo@eu guardo
-χαίρω@eu me alegro, me regozijo@eu me alegro, me regozijo
-εἰμί@eu sou, estou, existo;acontecer;haver@eu sou, estou, existo;acontecer;haver
-οὐ@adverbio de negação (c. o ind.):não@adverbio de negação (c. o ind.):não
-οὐκ@adverbio de negação (c. o ind.):não. Usado antes de uma vogal com aspiração branda@adverbio de negação (c. o ind.):não. Usado antes de uma vogal com aspiração branda
-οὐχ@adverbio de negação (c. o ind.):não. Usado antes de uma vogal com aspiração áspera@adverbio de negação (c. o ind.):não. Usado antes de uma vogal com aspiração áspera
-οὔ@adverbio de negação (c. o ind.):não. Quando é a última palavra de uma oração@adverbio de negação (c. o ind.):não. Quando é a última palavra de uma oração
-ἁμαρτάνω@eu peco@eu peco
-ἐγείρω@eu levanto, ergo;acordo, desperto;ressuscito@eu levanto, ergo;acordo, desperto;ressuscito
-ἔχω@eu tenho@eu tenho
-ἵνα@conjução (usada com o subj.): para que, a fim de que; que, de modo que@conjução (usada com o subj.): para que, a fim de que; que, de modo que
-καί@conjução ilativa: e, a saber, isto é; e assim;como adv.: também, semelhantemente@conjução ilativa: e, a saber, isto é; e assim;como adv.: também, semelhantemente
-κηρύσσω@eu proclamo, prego, anuncio [querigma]@eu proclamo, prego, anuncio
-κρίνω@eu julgo@eu julgo
-λαμβάνω@eu tomo, recebo@eu tomo, recebo
-μή@adv. de negação: não (usado com o subj.); como conj.: a menos que@adv. de negação: não (usado com o subj.); como conj.: a menos que
-οὖν@conj. pospositiva: pois, portanto; então@conj. pospositiva: pois, portanto; então
-πείθω@eu convenço, persuado; na voz passiva: obedeço@eu convenço, persuado; na voz passiva: obedeço
-πέμπω@eu envio@eu envio
-πιστεύω@eu creio; acredito; confio@eu creio; acredito; confio
-εἰς@preposição, usada com o acusativo: para; para dentro; em; até@preposição, usada com o acusativo: para; para dentro; em; até
-ἐκ/ἐξ@preposição usada só com o ablativo: de; de dentro de; a partir de@preposição usada só com o ablativo: de; de dentro de; a partir de
-οὐ μή + aoristo subj. ou futuro ind.@negação enfática: com certeza não, jamais, nunca, de modo nenhum@negação enfática: com certeza não, jamais, nunca, de modo nenhum
-ἀγαπάω@eu amo@eu amo
-αἰτέω@eu peço, solicito; requeiro@eu peço, solicito; requeiro
-γεννάω@eu gero, dou a luz; voz passiva: nascer@eu gero, dou a luz; voz passiva: nascer
-ἐρωτάω@eu pergunto; peço, solicito@eu pergunto; peço, solicito
-ζάω@(eu) vivo@(eu) vivo
-ζητέω@eu procuro, busco; examino, indago@eu procuro, busco; examino, indago
-λαλέω@eu falo@eu falo
-μαρτυρέω@eu testifico, testemunho@eu testifico, testemunho
-ὁμολογέω@eu admito, concordo; reconheço, confesso@eu admito, concordo; reconheço, confesso
-ὁράω@eu vejo; percebo; contemplo@eu vejo; percebo; contemplo
-πληρόω@(eu) encho (a ponto de transbordar), completo, cumpro@(eu) encho (a ponto de transbordar), completo, cumpro
-ποιέω@eu faço@eu faço
-τηρέω@eu guardo; observo@eu guardo; observo
-φανερόω@eu manifesto, revelo, mostro, dou a conhecer@eu manifesto, revelo, mostro, dou a conhecer
-βαπτίζω@eu batizo; imerjo, mergulho;lavo@eu batizo; imerjo, mergulho;lavo
-μέλλω (+ inf.)@eu vou + inf.,estou prestas a + inf.; devo + inf@eu vou + inf.,estou prestas a + inf.; devo + inf
-μένω@eu permaneço, fico@eu permaneço, fico
-ἀδελφός, ὁ@irmão@irmão
-ἄνθρωπος, ὁ@homem; ser humano, pessoa@homem; ser humano, pessoa@homem; ser humano, pessoa@homem; ser humano, pessoa
-ἀπόστολος, ὁ@apóstolo; enviado, mensageiro@apóstolo; enviado, mensageiro
-ἄρτος, ὁ@pão@pão
-διδάσκαλος, ὁ@mestre, professor@mestre, professor
-δοῦλος, ὁ@escravo; servo@escravo; servo
-ἔρημος, -ου, ἡ@deserto@deserto
-θεός, ὁ@deus; DEUS@deus; DEUS
-ἱμάρτιον, τό@roupa, veste@roupa, veste
-καιρός, ὁ@tempo (certo);oportunidade@tempo (certo);oportunidade
-κόσμος, ὁ@mundo; universo@mundo; universo
-κύριος, ὁ@amo, dono de escravos; Senhor@amo, dono de escravos; Senhor
-λόγος, ὁ@palavra@palavra
-νόμος, ὁ@lei@lei
-ὁ@ artigo masculino@ artigo masculino
-ἡ@ artigo feminino@ artigo feminino
-τὁ@ artigo neutro@ artigo neutro
-ὀφθαλμός, ὁ@olho@olho
-παιδίον, τό@criança@criança
-φίλος, ό@amigo@amigo
+Traduza: ἅγω@eu vou; guio; conduzo@eu vou; guio; conduzo
+Traduza: ἀκούω@eu ouço, escuto, entendo@eu ouço, escuto, entendo
+Traduza: βάλλω@eu lanço, jogo@eu lanço, jogo
+Traduza: γινώσκω@conheço, venho a conhecer, sei; compreendo, reconheço@conheço, venho a conhecer, sei; compreendo, reconheço
+Traduza: γράφω@eu escrevo@eu escrevo
+Traduza: διδάσκω@eu ensino@eu ensino
+Traduza: εὑρίσκω@eu acho, encontro@eu acho, encontro
+Traduza: θέλω@eu desejo, quero@eu desejo, quero
+Traduza: λέγω@eu digo, falo@eu digo, falo
+Traduza: λούω@eu lavo; voz média: me banho@eu lavo; voz média: me banho
+Traduza: λύω@eu desato, solto, liberto; destruo@eu desato, solto, liberto; destruo
+Traduza: σῴζω@eu salvo, liberto, preservo, livro, curo@eu salvo, liberto, preservo, livro, curo
+Traduza: φυλάσσω@eu guardo@eu guardo
+Traduza: χαίρω@eu me alegro, me regozijo@eu me alegro, me regozijo
+Traduza: εἰμί@eu sou, estou, existo;acontecer;haver@eu sou, estou, existo;acontecer;haver
+Traduza: οὐ@adverbio de negação (c. o ind.):não@adverbio de negação (c. o ind.):não
+Traduza: οὐκ@adverbio de negação (c. o ind.):não. Usado antes de uma vogal com aspiração branda@adverbio de negação (c. o ind.):não. Usado antes de uma vogal com aspiração branda
+Traduza: οὐχ@adverbio de negação (c. o ind.):não. Usado antes de uma vogal com aspiração áspera@adverbio de negação (c. o ind.):não. Usado antes de uma vogal com aspiração áspera
+Traduza: οὔ@adverbio de negação (c. o ind.):não. Quando é a última palavra de uma oração@adverbio de negação (c. o ind.):não. Quando é a última palavra de uma oração
+Traduza: ἁμαρτάνω@eu peco@eu peco
+Traduza: ἐγείρω@eu levanto, ergo;acordo, desperto;ressuscito@eu levanto, ergo;acordo, desperto;ressuscito
+Traduza: ἔχω@eu tenho@eu tenho
+Traduza: ἵνα@conjução (usada com o subj.): para que, a fim de que; que, de modo que@conjução (usada com o subj.): para que, a fim de que; que, de modo que
+Traduza: καί@conjução ilativa: e, a saber, isto é; e assim;como adv.: também, semelhantemente@conjução ilativa: e, a saber, isto é; e assim;como adv.: também, semelhantemente
+Traduza: κηρύσσω@eu proclamo, prego, anuncio [querigma]@eu proclamo, prego, anuncio
+Traduza: κρίνω@eu julgo@eu julgo
+Traduza: λαμβάνω@eu tomo, recebo@eu tomo, recebo
+Traduza: μή@adv. de negação: não (usado com o subj.); como conj.: a menos que@adv. de negação: não (usado com o subj.); como conj.: a menos que
+Traduza: οὖν@conj. pospositiva: pois, portanto; então@conj. pospositiva: pois, portanto; então
+Traduza: πείθω@eu convenço, persuado; na voz passiva: obedeço@eu convenço, persuado; na voz passiva: obedeço
+Traduza: πέμπω@eu envio@eu envio
+Traduza: πιστεύω@eu creio; acredito; confio@eu creio; acredito; confio
+Traduza: εἰς@preposição, usada com o acusativo: para; para dentro; em; até@preposição, usada com o acusativo: para; para dentro; em; até
+Traduza: ἐκ/ἐξ@preposição usada só com o ablativo: de; de dentro de; a partir de@preposição usada só com o ablativo: de; de dentro de; a partir de
+Traduza: οὐ μή + aoristo subj. ou futuro ind.@negação enfática: com certeza não, jamais, nunca, de modo nenhum@negação enfática: com certeza não, jamais, nunca, de modo nenhum
+Traduza: ἀγαπάω@eu amo@eu amo
+Traduza: αἰτέω@eu peço, solicito; requeiro@eu peço, solicito; requeiro
+Traduza: γεννάω@eu gero, dou a luz; voz passiva: nascer@eu gero, dou a luz; voz passiva: nascer
+Traduza: ἐρωτάω@eu pergunto; peço, solicito@eu pergunto; peço, solicito
+Traduza: ζάω@(eu) vivo@(eu) vivo
+Traduza: ζητέω@eu procuro, busco; examino, indago@eu procuro, busco; examino, indago
+Traduza: λαλέω@eu falo@eu falo
+Traduza: μαρτυρέω@eu testifico, testemunho@eu testifico, testemunho
+Traduza: ὁμολογέω@eu admito, concordo; reconheço, confesso@eu admito, concordo; reconheço, confesso
+Traduza: ὁράω@eu vejo; percebo; contemplo@eu vejo; percebo; contemplo
+Traduza: πληρόω@(eu) encho (a ponto de transbordar), completo, cumpro@(eu) encho (a ponto de transbordar), completo, cumpro
+Traduza: ποιέω@eu faço@eu faço
+Traduza: τηρέω@eu guardo; observo@eu guardo; observo
+Traduza: φανερόω@eu manifesto, revelo, mostro, dou a conhecer@eu manifesto, revelo, mostro, dou a conhecer
+Traduza: βαπτίζω@eu batizo; imerjo, mergulho;lavo@eu batizo; imerjo, mergulho;lavo
+Traduza: μέλλω (+ inf.)@eu vou + inf.,estou prestas a + inf.; devo + inf@eu vou + inf.,estou prestas a + inf.; devo + inf
+Traduza: μένω@eu permaneço, fico@eu permaneço, fico
+Traduza: ἀδελφός, ὁ@irmão@irmão
+Traduza: ἄνθρωπος, ὁ@homem; ser humano, pessoa@homem; ser humano, pessoa
+Traduza: ἀπόστολος, ὁ@apóstolo; enviado, mensageiro@apóstolo; enviado, mensageiro
+Traduza: ἄρτος, ὁ@pão@pão
+Traduza: διδάσκαλος, ὁ@mestre, professor@mestre, professor
+Traduza: δοῦλος, ὁ@escravo; servo@escravo; servo
+Traduza: ἔρημος, -ου, ἡ@deserto@deserto
+Traduza: θεός, ὁ@deus; DEUS@deus; DEUS
+Traduza: ἱμάρτιον, τό@roupa, veste@roupa, veste
+Traduza: καιρός, ὁ@tempo (certo);oportunidade@tempo (certo);oportunidade
+Traduza: κόσμος, ὁ@mundo; universo@mundo; universo
+Traduza: κύριος, ὁ@amo, dono de escravos; Senhor@amo, dono de escravos; Senhor
+Traduza: λόγος, ὁ@palavra@palavra
+Traduza: νόμος, ὁ@lei@lei
+Traduza: ὁ@ artigo masculino@ artigo masculino
+Traduza: ἡ@ artigo feminino@ artigo feminino
+Traduza: τὁ@ artigo neutro@ artigo neutro
+Traduza: ὀφθαλμός, ὁ@olho@olho
+Traduza: παιδίον, τό@criança@criança
+Traduza: φίλος, ό@amigo@amigo
+Traduza: ἅγγελος, ὁ@anjo, mensageiro@anjo, mensageiro
+Traduza: βιβλίον, τό@livro; escrito, carta@livro; escrito, carta
