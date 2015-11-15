@@ -108,4 +108,26 @@ Traduza: συναγωγή, ἡ@sinagoga; assembleia, reunião@sinagoga; assemble
 Traduza: σωτηρία, ἡ@salvação, libertação, preservação@salvação, libertação, preservação
 Traduza: ψυχή, ἡ@alma; vida@alma; vida
 Traduza: ἀγαθός, -ή, -όν@bom; reto@bom; reto
-Traduza: ἀγαπετός, -ή, -όν@amado@amado
+Traduza: ἀγαπητός, -ή, -όν@amado@amado
+Traduza: ἅγιος, -ία, -ον@santo; consagrado, separado por ou para DEUS@santo; consagrado, separado por ou para DEUS
+Traduza: αἰώνιος, -ον@eterno@eterno
+Traduza: ἄλλος, -η, -ο@outro (da mesma espécie)@outro (da mesma espécie)
+Traduza: ἁμαρτωλός, -όν@pecaminoso@pecaminoso
+Traduza: δίκαιος, -α, -ον@justo;reto@justo;reto
+Traduza: ἔσχατος, -η, -ον@último@último
+Traduza: ἕτερος, -α, -ον@outro (de natureza diferente)@outro (de natureza diferente)
+Traduza: καινός, -ή, -όν@novo (no sentido de inédito, novidade)@novo (no sentido de inédito, novidade)
+Traduza: νέος, -α, -ον@novo;jovem;recente@novo;jovem;recente
+Traduza: πιστός, -ή, -όν@fiel; confiável, fidedigno; crente, confiante@fiel; confiável, fidedigno; crente, confiante
+Traduza: πονηρός, α, όν@mau, maligno@mau, maligno
+Traduza: κακός, -ή, -όν@mau; ruim@mau; ruim
+Traduza: καλός, -ή, -όν@bom; lindo, belo@bom; lindo, belo
+Traduza: μόνος, -η, -ον@único, só, o neutro μόνον é usado como adv.: só, somente@único, só
+Traduza: νεκρός, -ά, -όν@morto@morto
+Traduza: πνευματικός, -ή, -όν@espiritual@espiritual
+Traduza: πῶτος, -η, -ον@primeiro@primeiro
+Traduza: σάρκινος, -η, -ον@carnal, mundano@carnal, mundano
+Traduza: ἀνά@c. ac.: para cima; acima, sobre; cada; Como prefixo: para cima; outra vez@c. ac.: para cima; acima, sobre; cada; Como prefixo: para cima; outra vez
+Traduza: ἀντί@c. gen.: em lugar de; em troca de; por; Como prefixo: oposto a, contra@c. gen.: em lugar de; em troca de; por; Como prefixo: oposto a, contra
+Traduza: ἀπό@c. abl.: de, desde; da parte de
+Traduza: 
