@@ -72,3 +72,40 @@ Traduza: παιδίον, τό@criança@criança
 Traduza: φίλος, ό@amigo@amigo
 Traduza: ἅγγελος, ὁ@anjo, mensageiro@anjo, mensageiro
 Traduza: βιβλίον, τό@livro; escrito, carta@livro; escrito, carta
+Traduza: δῶρον, τό@dom, presente; oferta@dom, presente; oferta
+Traduza: ἔργον, τό@trabalho; obra@trabalho; obra
+Traduza: θάνατος, ὁ@morte@morte
+Traduza: θρόνος, ὁ@trono@trono
+Traduza: ἱερόν, τό@templo, santuário@templo, santuário
+Traduza: λίθος, ὁ@pedra@pedra
+Traduza: ὁδός, ἡ@caminho@caminho
+Traduza: οἶκος, ὁ@casa; lar; família@casa; lar; família
+Traduza: οὐρανός, ὁ@céu@céu
+Traduza: ὄχλος, ὁ@multidão; povo@multidão; povo
+Traduza: πρόσωπον, τό@rosto, face@rosto, face
+Traduza: σάββατον, τό@sábado@sábado
+Traduza: τέκνον, τό@criança; filho@criança; filho
+Traduza: τόπος, ὁ@lugar@lugar
+Traduza: υἱός, ὁ@filho@filho
+Traduza: χρόνος, ὁ@tempo@tempo
+Traduza: ἀγάπη, ἡ@amor@amor
+Traduza: ἀλήθεια, ἡ@verdade@verdade
+Traduza: βασιλεία, ἡ@reino; reinado, domínio real@reino; reinado, domínio real
+Traduza: γλῶσσα, ἡ@língua; linguagem, idioma@lingua; linguagem, idioma
+Traduza: γραφή, ἡ@escrito, Escritura@escrito, Escritura
+Traduza: δόξα, ἡ@glória@glória
+Traduza: ἐκκλησία, ἡ@assembleia, reunião; igreja, congregação@assembleia, reunião; igreja, congregação
+Traduza: ζωή, ἡ@vida (no sentido físico e espiritual)@vida (no sentido físico e espiritual)
+Traduza: ἡμέρα, ἡ@dia@dia
+Traduza: μαθητής, ὁ@discípulo, aprendiz@discípulo, aprendiz
+Traduza: Μεσσίας, ὁ@Messías, Ungido@Messías, Ungido
+Traduza: νεανίας, ὁ@jovem, moço@jovem, moço
+Traduza: οἰκία, ἡ@casa, família@casa, família
+Traduza: παραβολή, ἡ@parábola; ilustração@parábola; ilustração
+Traduza: προφήτης, ὁ@profeta@profeta
+Traduza: σοφία, ἡ@sabedoria@sabedoria
+Traduza: συναγωγή, ἡ@sinagoga; assembleia, reunião@sinagoga; assembleia, reunião
+Traduza: σωτηρία, ἡ@salvação, libertação, preservação@salvação, libertação, preservação
+Traduza: ψυχή, ἡ@alma; vida@alma; vida
+Traduza: ἀγαθός, -ή, -όν@bom; reto@bom; reto
+Traduza: ἀγαπετός, -ή, -όν@amado@amado
