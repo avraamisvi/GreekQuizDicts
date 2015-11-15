@@ -129,5 +129,4 @@ Traduza: πῶτος, -η, -ον@primeiro@primeiro
 Traduza: σάρκινος, -η, -ον@carnal, mundano@carnal, mundano
 Traduza: ἀνά@c. ac.: para cima; acima, sobre; cada; Como prefixo: para cima; outra vez@c. ac.: para cima; acima, sobre; cada; Como prefixo: para cima; outra vez
 Traduza: ἀντί@c. gen.: em lugar de; em troca de; por; Como prefixo: oposto a, contra@c. gen.: em lugar de; em troca de; por; Como prefixo: oposto a, contra
-Traduza: ἀπό@c. abl.: de, desde; da parte de
-Traduza: 
+Traduza: ἀπό@c. abl.: de, desde; da parte de@c. abl.: de, desde; da parte de

@@ -5,661 +5,793 @@ questions:[
 		title: "Traduza: ἅγω",
 		explanation: "eu vou; guio; conduzo.",
 		correct: 0,
-		patterns: [[69,106,73,68,0],[26,1,49,38,0],[50,30,36,46,0]]
+		patterns: [[7,52,86,23,0],[62,51,25,40,0],[38,1,56,5,0]]
 	},
 	{
 		title: "Traduza: ἀκούω",
 		explanation: "eu ouço, escuto, entendo.",
 		correct: 1,
-		patterns: [[90,60,31,94,1],[101,96,80,28,1],[67,68,107,22,1]]
+		patterns: [[16,42,47,98,1],[53,32,79,74,1],[40,105,3,57,1]]
 	},
 	{
 		title: "Traduza: βάλλω",
 		explanation: "eu lanço, jogo.",
 		correct: 2,
-		patterns: [[95,3,100,26,2],[65,44,59,21,2],[89,90,92,98,2]]
+		patterns: [[37,79,89,29,2],[12,16,89,29,2],[21,10,59,26,2]]
 	},
 	{
 		title: "Traduza: γινώσκω",
 		explanation: "conheço, venho a conhecer, sei; compreendo, reconheço.",
 		correct: 3,
-		patterns: [[20,34,15,107,3],[80,36,40,54,3],[76,43,79,95,3]]
+		patterns: [[13,20,118,56,3],[105,71,94,100,3],[128,54,50,70,3]]
 	},
 	{
 		title: "Traduza: γράφω",
 		explanation: "eu escrevo.",
 		correct: 4,
-		patterns: [[89,11,83,15,4],[107,91,8,20,4],[107,34,104,49,4]]
+		patterns: [[91,81,75,85,4],[123,12,28,51,4],[105,79,57,51,4]]
 	},
 	{
 		title: "Traduza: διδάσκω",
 		explanation: "eu ensino.",
 		correct: 5,
-		patterns: [[8,82,103,5,53],[46,9,0,88,5],[70,36,19,2,5]]
+		patterns: [[4,100,36,107,5],[110,40,26,127,5],[83,47,94,45,5]]
 	},
 	{
 		title: "Traduza: εὑρίσκω",
 		explanation: "eu acho, encontro.",
 		correct: 6,
-		patterns: [[17,46,71,63,6],[37,57,4,88,6],[93,42,75,99,6]]
+		patterns: [[36,125,131,89,6],[88,116,26,18,6],[8,95,25,13,6]]
 	},
 	{
 		title: "Traduza: θέλω",
 		explanation: "eu desejo, quero.",
 		correct: 7,
-		patterns: [[24,52,49,109,7],[57,91,76,85,7],[47,74,36,89,7]]
+		patterns: [[35,96,15,81,7],[28,93,91,7,101],[0,23,6,42,7]]
 	},
 	{
 		title: "Traduza: λέγω",
 		explanation: "eu digo, falo.",
 		correct: 8,
-		patterns: [[96,1,25,59,8],[89,69,65,91,8],[42,102,82,75,8]]
+		patterns: [[42,27,77,30,8],[75,110,33,46,8],[55,117,23,100,8]]
 	},
 	{
 		title: "Traduza: λούω",
 		explanation: "eu lavo; voz média: me banho.",
 		correct: 9,
-		patterns: [[51,59,67,8,9],[107,54,24,97,9],[28,34,48,36,9]]
+		patterns: [[111,13,13,39,9],[37,121,109,6,9],[71,98,29,71,9]]
 	},
 	{
 		title: "Traduza: λύω",
 		explanation: "eu desato, solto, liberto; destruo.",
 		correct: 10,
-		patterns: [[1,45,92,10,37],[64,46,19,9,10],[79,79,90,20,10]]
+		patterns: [[92,94,61,48,10],[47,45,9,8,10],[5,111,125,99,10]]
 	},
 	{
 		title: "Traduza: σῴζω",
 		explanation: "eu salvo, liberto, preservo, livro, curo.",
 		correct: 11,
-		patterns: [[65,78,51,78,11],[0,49,88,103,11],[90,87,65,3,11]]
+		patterns: [[76,62,12,62,11],[92,107,95,116,11],[128,30,111,42,11]]
 	},
 	{
 		title: "Traduza: φυλάσσω",
 		explanation: "eu guardo.",
 		correct: 12,
-		patterns: [[56,51,31,77,12],[50,18,52,29,12],[30,72,43,101,12]]
+		patterns: [[87,109,125,121,12],[131,72,55,58,12],[125,108,61,90,12]]
 	},
 	{
 		title: "Traduza: χαίρω",
 		explanation: "eu me alegro, me regozijo.",
 		correct: 13,
-		patterns: [[61,66,29,86,13],[79,101,64,89,13],[22,79,14,61,13]]
+		patterns: [[103,84,17,31,13],[70,81,60,84,13],[39,96,126,114,13]]
 	},
 	{
 		title: "Traduza: εἰμί",
 		explanation: "eu sou, estou, existo;acontecer;haver.",
 		correct: 14,
-		patterns: [[63,37,60,57,14],[101,10,87,55,14],[75,29,69,10,14]]
+		patterns: [[39,3,52,56,14],[72,14,45,47,2],[89,49,103,53,14]]
 	},
 	{
 		title: "Traduza: οὐ",
 		explanation: "adverbio de negação (c. o ind.):não.",
 		correct: 15,
-		patterns: [[52,107,54,38,15],[9,30,4,69,15],[11,31,108,10,15]]
+		patterns: [[45,130,112,79,15],[118,80,89,105,15],[62,85,6,10,15]]
 	},
 	{
 		title: "Traduza: οὐκ",
 		explanation: "adverbio de negação (c. o ind.):não. Usado antes de uma vogal com aspiração branda.",
 		correct: 16,
-		patterns: [[43,81,100,33,16],[63,105,28,37,16],[34,23,61,14,16]]
+		patterns: [[129,97,34,71,16],[84,36,83,78,16],[103,128,35,77,16]]
 	},
 	{
 		title: "Traduza: οὐχ",
 		explanation: "adverbio de negação (c. o ind.):não. Usado antes de uma vogal com aspiração áspera.",
 		correct: 17,
-		patterns: [[50,59,101,41,17],[104,74,17,83,92],[4,98,103,99,17]]
+		patterns: [[14,17,81,109,90],[74,106,79,24,17],[121,124,15,120,17]]
 	},
 	{
 		title: "Traduza: οὔ",
 		explanation: "adverbio de negação (c. o ind.):não. Quando é a última palavra de uma oração.",
 		correct: 18,
-		patterns: [[91,66,17,106,18],[2,78,20,38,18],[23,107,24,94,18]]
+		patterns: [[89,92,112,22,18],[58,124,94,123,18],[46,9,27,45,18]]
 	},
 	{
 		title: "Traduza: ἁμαρτάνω",
 		explanation: "eu peco.",
 		correct: 19,
-		patterns: [[68,22,102,50,19],[46,41,10,28,19],[35,69,85,72,19]]
+		patterns: [[3,33,24,61,19],[129,28,130,96,19],[32,36,21,91,19]]
 	},
 	{
 		title: "Traduza: ἐγείρω",
 		explanation: "eu levanto, ergo;acordo, desperto;ressuscito.",
 		correct: 20,
-		patterns: [[6,72,43,67,20],[25,12,21,62,20],[32,83,86,2,20]]
+		patterns: [[72,10,19,17,20],[0,79,37,118,20],[119,44,32,17,20]]
 	},
 	{
 		title: "Traduza: ἔχω",
 		explanation: "eu tenho.",
 		correct: 21,
-		patterns: [[46,76,94,28,21],[83,80,62,1,21],[95,12,20,27,21]]
+		patterns: [[61,50,77,10,21],[114,36,69,88,21],[87,27,42,25,21]]
 	},
 	{
 		title: "Traduza: ἵνα",
 		explanation: "conjução (usada com o subj.): para que, a fim de que; que, de modo que.",
 		correct: 22,
-		patterns: [[44,101,23,32,22],[100,108,32,85,22],[3,6,14,25,22]]
+		patterns: [[10,56,20,3,22],[65,109,115,15,22],[108,67,13,87,22]]
 	},
 	{
 		title: "Traduza: καί",
 		explanation: "conjução ilativa: e, a saber, isto é; e assim;como adv.: também, semelhantemente.",
 		correct: 23,
-		patterns: [[59,16,49,51,23],[2,42,23,107,48],[101,24,9,29,23]]
+		patterns: [[95,1,93,8,23],[88,23,77,3,93],[21,41,113,82,23]]
 	},
 	{
 		title: "Traduza: κηρύσσω",
 		explanation: "eu proclamo, prego, anuncio [querigma].",
 		correct: 24,
-		patterns: [[35,103,53,49,24],[43,67,1,47,24],[46,82,32,13,24]]
+		patterns: [[103,99,114,120,24],[50,75,82,125,24],[4,59,86,31,24]]
 	},
 	{
 		title: "Traduza: κρίνω",
 		explanation: "eu julgo.",
 		correct: 25,
-		patterns: [[42,109,32,7,25],[40,26,53,9,25],[12,36,92,95,25]]
+		patterns: [[46,34,33,110,25],[21,73,101,32,25],[104,120,113,45,25]]
 	},
 	{
 		title: "Traduza: λαμβάνω",
 		explanation: "eu tomo, recebo.",
 		correct: 26,
-		patterns: [[24,84,100,78,26],[47,20,73,106,26],[17,80,70,107,26]]
+		patterns: [[83,66,121,34,26],[13,70,89,82,26],[74,1,105,79,26]]
 	},
 	{
 		title: "Traduza: μή",
 		explanation: "adv. de negação: não (usado com o subj.); como conj.: a menos que.",
 		correct: 27,
-		patterns: [[47,44,3,42,27],[57,30,95,31,27],[64,60,66,18,27]]
+		patterns: [[77,108,72,127,27],[79,128,62,71,27],[6,117,34,64,27]]
 	},
 	{
 		title: "Traduza: οὖν",
 		explanation: "conj. pospositiva: pois, portanto; então.",
 		correct: 28,
-		patterns: [[47,107,62,103,28],[73,66,72,41,28],[97,8,12,23,28]]
+		patterns: [[81,54,3,127,28],[27,102,66,75,28],[31,22,96,62,28]]
 	},
 	{
 		title: "Traduza: πείθω",
 		explanation: "eu convenço, persuado; na voz passiva: obedeço.",
 		correct: 29,
-		patterns: [[80,25,56,98,29],[13,11,68,27,29],[103,6,47,63,29]]
+		patterns: [[100,56,31,27,29],[34,89,102,80,29],[81,38,29,38,105]]
 	},
 	{
 		title: "Traduza: πέμπω",
 		explanation: "eu envio.",
 		correct: 30,
-		patterns: [[106,82,65,88,30],[21,10,94,5,30],[43,61,72,47,30]]
+		patterns: [[0,52,70,57,30],[33,104,80,104,30],[117,72,32,90,30]]
 	},
 	{
 		title: "Traduza: πιστεύω",
 		explanation: "eu creio; acredito; confio.",
 		correct: 31,
-		patterns: [[64,102,93,63,31],[74,77,107,98,31],[50,37,41,35,31]]
+		patterns: [[103,9,48,126,31],[127,66,66,50,31],[43,18,48,7,31]]
 	},
 	{
 		title: "Traduza: εἰς",
 		explanation: "preposição, usada com o acusativo: para; para dentro; em; até.",
 		correct: 32,
-		patterns: [[23,13,74,89,32],[95,109,63,100,32],[41,90,105,22,32]]
+		patterns: [[21,67,101,5,32],[32,23,111,126,44],[38,0,42,43,32]]
 	},
 	{
 		title: "Traduza: ἐκ/ἐξ",
 		explanation: "preposição usada só com o ablativo: de; de dentro de; a partir de.",
 		correct: 33,
-		patterns: [[96,66,108,109,33],[18,50,96,40,33],[82,80,3,93,33]]
+		patterns: [[45,1,7,6,33],[81,41,58,36,33],[48,126,91,117,33]]
 	},
 	{
 		title: "Traduza: οὐ μή + aoristo subj. ou futuro ind.",
 		explanation: "negação enfática: com certeza não, jamais, nunca, de modo nenhum.",
 		correct: 34,
-		patterns: [[56,20,36,55,34],[26,56,92,98,34],[0,75,39,60,34]]
+		patterns: [[121,17,92,61,34],[27,39,96,65,34],[61,68,114,85,34]]
 	},
 	{
 		title: "Traduza: ἀγαπάω",
 		explanation: "eu amo.",
 		correct: 35,
-		patterns: [[54,41,24,19,35],[48,72,47,62,35],[15,75,24,102,35]]
+		patterns: [[14,17,77,30,35],[24,15,130,81,35],[45,110,113,18,35]]
 	},
 	{
 		title: "Traduza: αἰτέω",
 		explanation: "eu peço, solicito; requeiro.",
 		correct: 36,
-		patterns: [[69,59,30,84,36],[98,27,80,88,36],[95,79,40,14,36]]
+		patterns: [[85,119,110,56,36],[109,5,41,15,36],[33,82,4,36,8]]
 	},
 	{
 		title: "Traduza: γεννάω",
 		explanation: "eu gero, dou a luz; voz passiva: nascer.",
 		correct: 37,
-		patterns: [[83,60,49,97,37],[50,94,47,9,37],[27,74,13,74,37]]
+		patterns: [[111,18,30,129,37],[45,42,37,56,125],[6,15,66,83,37]]
 	},
 	{
 		title: "Traduza: ἐρωτάω",
 		explanation: "eu pergunto; peço, solicito.",
 		correct: 38,
-		patterns: [[69,16,34,98,38],[44,0,56,73,38],[89,13,76,27,38]]
+		patterns: [[98,13,75,9,38],[89,66,85,130,38],[63,52,67,65,38]]
 	},
 	{
 		title: "Traduza: ζάω",
 		explanation: "(eu) vivo.",
 		correct: 39,
-		patterns: [[60,24,22,99,39],[86,76,22,61,39],[58,78,65,37,39]]
+		patterns: [[9,103,25,114,39],[44,92,86,66,39],[60,130,67,83,39]]
 	},
 	{
 		title: "Traduza: ζητέω",
 		explanation: "eu procuro, busco; examino, indago.",
 		correct: 40,
-		patterns: [[64,102,93,4,40],[88,69,95,34,40],[95,24,63,6,40]]
+		patterns: [[30,0,75,53,40],[87,25,41,130,40],[124,91,49,72,40]]
 	},
 	{
 		title: "Traduza: λαλέω",
 		explanation: "eu falo.",
 		correct: 41,
-		patterns: [[108,41,103,50,72],[46,106,38,35,41],[89,24,16,64,41]]
+		patterns: [[38,34,14,7,41],[33,79,84,62,41],[130,31,103,84,41]]
 	},
 	{
 		title: "Traduza: μαρτυρέω",
 		explanation: "eu testifico, testemunho.",
 		correct: 42,
-		patterns: [[41,48,83,18,42],[26,71,102,98,42],[85,37,77,99,42]]
+		patterns: [[131,0,104,8,42],[118,17,99,10,42],[85,73,27,80,42]]
 	},
 	{
 		title: "Traduza: ὁμολογέω",
 		explanation: "eu admito, concordo; reconheço, confesso.",
 		correct: 43,
-		patterns: [[93,93,91,28,43],[51,37,6,39,43],[28,97,58,27,43]]
+		patterns: [[127,105,117,83,43],[75,81,21,9,43],[116,81,29,114,43]]
 	},
 	{
 		title: "Traduza: ὁράω",
 		explanation: "eu vejo; percebo; contemplo.",
 		correct: 44,
-		patterns: [[33,109,33,58,44],[4,71,36,50,44],[40,28,29,46,44]]
+		patterns: [[69,73,9,72,44],[2,21,131,20,44],[18,16,120,50,44]]
 	},
 	{
 		title: "Traduza: πληρόω",
 		explanation: "(eu) encho (a ponto de transbordar), completo, cumpro.",
 		correct: 45,
-		patterns: [[25,1,75,9,45],[55,55,20,60,45],[102,33,64,70,45]]
+		patterns: [[58,72,3,128,45],[29,126,23,6,45],[9,58,107,11,45]]
 	},
 	{
 		title: "Traduza: ποιέω",
 		explanation: "eu faço.",
 		correct: 46,
-		patterns: [[99,28,11,65,46],[71,106,62,16,46],[35,1,94,84,46]]
+		patterns: [[89,41,117,90,46],[38,6,4,25,46],[18,19,23,11,46]]
 	},
 	{
 		title: "Traduza: τηρέω",
 		explanation: "eu guardo; observo.",
 		correct: 47,
-		patterns: [[80,62,85,85,47],[103,95,40,11,47],[12,98,96,99,47]]
+		patterns: [[93,107,108,52,47],[106,76,75,54,47],[65,37,80,85,47]]
 	},
 	{
 		title: "Traduza: φανερόω",
 		explanation: "eu manifesto, revelo, mostro, dou a conhecer.",
 		correct: 48,
-		patterns: [[63,33,10,107,48],[67,61,34,85,48],[19,69,5,25,48]]
+		patterns: [[0,5,88,100,48],[67,101,104,13,48],[107,104,79,64,48]]
 	},
 	{
 		title: "Traduza: βαπτίζω",
 		explanation: "eu batizo; imerjo, mergulho;lavo.",
 		correct: 49,
-		patterns: [[23,62,60,20,49],[65,45,64,0,49],[52,86,25,97,49]]
+		patterns: [[84,35,117,84,49],[21,120,101,75,49],[49,64,64,123,19]]
 	},
 	{
 		title: "Traduza: μέλλω (+ inf.)",
 		explanation: "eu vou + inf.,estou prestas a + inf.; devo + inf.",
 		correct: 50,
-		patterns: [[82,71,99,24,50],[101,65,50,49,42],[106,88,7,54,50]]
+		patterns: [[76,113,89,31,50],[9,111,10,94,50],[88,77,109,59,50]]
 	},
 	{
 		title: "Traduza: μένω",
 		explanation: "eu permaneço, fico.",
 		correct: 51,
-		patterns: [[39,4,31,14,51],[24,43,58,93,51],[50,28,68,52,51]]
+		patterns: [[24,129,47,0,51],[105,57,97,42,51],[85,121,32,120,51]]
 	},
 	{
 		title: "Traduza: ἀδελφός, ὁ",
 		explanation: "irmão.",
 		correct: 52,
-		patterns: [[88,3,106,67,52],[4,18,47,78,52],[69,23,85,80,52]]
+		patterns: [[79,3,97,51,52],[4,92,81,50,52],[31,129,59,77,52]]
 	},
 	{
 		title: "Traduza: ἄνθρωπος, ὁ",
 		explanation: "homem; ser humano, pessoa.",
 		correct: 53,
-		patterns: [[107,29,71,39,53],[22,9,100,32,53],[38,0,55,38,53]]
+		patterns: [[40,71,110,123,53],[85,130,6,5,53],[104,94,124,87,53]]
 	},
 	{
 		title: "Traduza: ἀπόστολος, ὁ",
 		explanation: "apóstolo; enviado, mensageiro.",
 		correct: 54,
-		patterns: [[19,70,56,59,54],[105,63,82,30,54],[102,108,17,35,54]]
+		patterns: [[101,19,40,85,54],[129,112,26,126,54],[49,91,57,93,54]]
 	},
 	{
 		title: "Traduza: ἄρτος, ὁ",
 		explanation: "pão.",
 		correct: 55,
-		patterns: [[92,80,66,11,55],[35,0,0,68,55],[81,50,84,53,55]]
+		patterns: [[92,64,111,78,55],[94,101,44,83,55],[55,129,40,100,94]]
 	},
 	{
 		title: "Traduza: διδάσκαλος, ὁ",
 		explanation: "mestre, professor.",
 		correct: 56,
-		patterns: [[21,3,28,15,56],[77,44,40,40,56],[3,65,90,74,56]]
+		patterns: [[7,55,32,3,56],[130,8,92,64,56],[99,0,126,122,56]]
 	},
 	{
 		title: "Traduza: δοῦλος, ὁ",
 		explanation: "escravo; servo.",
 		correct: 57,
-		patterns: [[98,54,2,63,57],[49,84,24,44,57],[60,76,7,37,57]]
+		patterns: [[0,108,84,37,57],[1,37,110,53,57],[128,37,50,121,57]]
 	},
 	{
 		title: "Traduza: ἔρημος, -ου, ἡ",
 		explanation: "deserto.",
 		correct: 58,
-		patterns: [[84,76,97,108,58],[16,55,45,105,58],[59,4,39,12,58]]
+		patterns: [[81,54,92,18,58],[13,70,41,2,58],[127,37,10,127,58]]
 	},
 	{
 		title: "Traduza: θεός, ὁ",
 		explanation: "deus; DEUS.",
 		correct: 59,
-		patterns: [[43,73,57,16,59],[60,19,80,60,59],[15,95,20,31,59]]
+		patterns: [[7,19,85,59,71],[86,5,100,50,59],[16,111,39,71,59]]
 	},
 	{
 		title: "Traduza: ἱμάρτιον, τό",
 		explanation: "roupa, veste.",
 		correct: 60,
-		patterns: [[28,68,66,52,60],[106,103,48,87,60],[109,65,94,40,60]]
+		patterns: [[130,76,76,4,60],[127,49,7,40,60],[69,71,37,38,60]]
 	},
 	{
 		title: "Traduza: καιρός, ὁ",
 		explanation: "tempo (certo);oportunidade.",
 		correct: 61,
-		patterns: [[22,60,98,68,61],[7,6,100,100,61],[68,32,30,43,61]]
+		patterns: [[94,118,80,119,61],[124,17,5,4,61],[63,124,26,45,61]]
 	},
 	{
 		title: "Traduza: κόσμος, ὁ",
 		explanation: "mundo; universo.",
 		correct: 62,
-		patterns: [[83,19,107,54,62],[48,38,54,10,62],[102,81,48,28,62]]
+		patterns: [[54,117,16,12,62],[84,111,37,125,62],[3,107,36,113,62]]
 	},
 	{
 		title: "Traduza: κύριος, ὁ",
 		explanation: "amo, dono de escravos; Senhor.",
 		correct: 63,
-		patterns: [[15,68,82,74,63],[37,41,78,31,63],[84,64,16,8,63]]
+		patterns: [[81,42,101,20,63],[104,63,104,117,34],[75,27,16,13,63]]
 	},
 	{
 		title: "Traduza: λόγος, ὁ",
 		explanation: "palavra.",
 		correct: 64,
-		patterns: [[72,108,107,103,64],[107,60,89,89,64],[4,12,104,52,64]]
+		patterns: [[97,76,13,45,64],[15,116,109,39,64],[86,87,130,22,64]]
 	},
 	{
 		title: "Traduza: νόμος, ὁ",
 		explanation: "lei.",
 		correct: 65,
-		patterns: [[88,2,42,92,65],[93,44,78,23,65],[38,57,0,88,65]]
+		patterns: [[18,59,24,85,65],[85,38,51,40,65],[81,35,125,107,65]]
 	},
 	{
 		title: "Traduza: ὁ",
 		explanation: " artigo masculino.",
 		correct: 66,
-		patterns: [[29,91,53,96,66],[20,85,65,42,66],[84,2,65,60,66]]
+		patterns: [[25,35,55,90,66],[79,86,78,44,66],[119,22,1,69,66]]
 	},
 	{
 		title: "Traduza: ἡ",
 		explanation: " artigo feminino.",
 		correct: 67,
-		patterns: [[8,7,101,91,67],[51,95,61,64,67],[97,95,9,76,67]]
+		patterns: [[120,122,46,107,67],[11,124,103,21,67],[90,75,51,34,67]]
 	},
 	{
 		title: "Traduza: τὁ",
 		explanation: " artigo neutro.",
 		correct: 68,
-		patterns: [[92,24,35,30,68],[103,25,88,91,68],[60,53,56,11,68]]
+		patterns: [[1,36,85,119,68],[48,26,48,102,68],[44,18,113,118,68]]
 	},
 	{
 		title: "Traduza: ὀφθαλμός, ὁ",
 		explanation: "olho.",
 		correct: 69,
-		patterns: [[84,35,41,97,69],[90,25,17,28,69],[72,63,96,20,69]]
+		patterns: [[108,129,53,66,69],[39,103,14,26,69],[68,10,21,26,69]]
 	},
 	{
 		title: "Traduza: παιδίον, τό",
 		explanation: "criança.",
 		correct: 70,
-		patterns: [[41,86,46,2,70],[70,39,27,13,63],[97,25,90,4,70]]
+		patterns: [[37,43,55,31,70],[53,93,93,7,70],[30,0,90,104,70]]
 	},
 	{
 		title: "Traduza: φίλος, ό",
 		explanation: "amigo.",
 		correct: 71,
-		patterns: [[54,24,96,53,71],[21,72,9,105,71],[73,10,25,4,71]]
+		patterns: [[24,27,50,19,71],[50,111,77,74,71],[84,62,10,11,71]]
 	},
 	{
 		title: "Traduza: ἅγγελος, ὁ",
 		explanation: "anjo, mensageiro.",
 		correct: 72,
-		patterns: [[107,77,63,40,72],[79,71,26,92,72],[30,14,102,8,72]]
+		patterns: [[33,33,43,92,72],[53,115,44,123,72],[112,24,130,96,72]]
 	},
 	{
 		title: "Traduza: βιβλίον, τό",
 		explanation: "livro; escrito, carta.",
 		correct: 73,
-		patterns: [[71,100,96,48,73],[93,96,81,90,73],[23,52,80,34,73]]
+		patterns: [[35,14,45,119,73],[72,23,9,83,73],[57,11,122,20,73]]
 	},
 	{
 		title: "Traduza: δῶρον, τό",
 		explanation: "dom, presente; oferta.",
 		correct: 74,
-		patterns: [[63,56,96,76,74],[65,87,16,109,74],[109,108,103,39,74]]
+		patterns: [[90,35,40,60,74],[29,100,40,86,74],[57,114,23,99,74]]
 	},
 	{
 		title: "Traduza: ἔργον, τό",
 		explanation: "trabalho; obra.",
 		correct: 75,
-		patterns: [[4,104,66,15,75],[87,95,11,45,75],[55,50,60,67,75]]
+		patterns: [[80,51,54,105,75],[111,95,108,75,117],[98,101,53,22,75]]
 	},
 	{
 		title: "Traduza: θάνατος, ὁ",
 		explanation: "morte.",
 		correct: 76,
-		patterns: [[33,73,11,55,76],[75,71,16,106,76],[43,35,17,21,76]]
+		patterns: [[14,49,39,5,76],[55,128,25,128,76],[5,119,61,42,76]]
 	},
 	{
 		title: "Traduza: θρόνος, ὁ",
 		explanation: "trono.",
 		correct: 77,
-		patterns: [[69,71,84,24,77],[42,53,84,102,77],[89,32,7,35,77]]
+		patterns: [[23,39,85,5,77],[27,126,80,121,77],[14,51,114,105,77]]
 	},
 	{
 		title: "Traduza: ἱερόν, τό",
 		explanation: "templo, santuário.",
 		correct: 78,
-		patterns: [[3,34,109,103,78],[48,88,82,28,78],[6,70,27,85,78]]
+		patterns: [[50,0,96,14,78],[113,63,68,104,78],[19,42,109,115,78]]
 	},
 	{
 		title: "Traduza: λίθος, ὁ",
 		explanation: "pedra.",
 		correct: 79,
-		patterns: [[6,71,24,2,79],[26,14,19,22,79],[37,108,68,71,79]]
+		patterns: [[125,68,19,57,79],[103,77,112,97,79],[78,126,74,122,79]]
 	},
 	{
 		title: "Traduza: ὁδός, ἡ",
 		explanation: "caminho.",
 		correct: 80,
-		patterns: [[51,94,79,35,80],[77,65,107,101,80],[29,49,35,105,80]]
+		patterns: [[121,58,68,35,80],[9,19,48,30,80],[52,119,82,64,80]]
 	},
 	{
 		title: "Traduza: οἶκος, ὁ",
 		explanation: "casa; lar; família.",
 		correct: 81,
-		patterns: [[89,5,2,17,81],[104,55,40,28,81],[5,80,14,19,81]]
+		patterns: [[124,6,79,113,81],[122,30,89,86,81],[6,129,13,94,81]]
 	},
 	{
 		title: "Traduza: οὐρανός, ὁ",
 		explanation: "céu.",
 		correct: 82,
-		patterns: [[72,16,49,6,82],[38,12,61,23,82],[31,48,59,56,82]]
+		patterns: [[26,111,72,58,82],[30,113,63,128,82],[119,66,68,23,82]]
 	},
 	{
 		title: "Traduza: ὄχλος, ὁ",
 		explanation: "multidão; povo.",
 		correct: 83,
-		patterns: [[56,68,69,109,83],[59,12,39,0,83],[4,20,85,26,83]]
+		patterns: [[46,60,16,83,73],[79,21,105,37,83],[121,114,121,33,83]]
 	},
 	{
 		title: "Traduza: πρόσωπον, τό",
 		explanation: "rosto, face.",
 		correct: 84,
-		patterns: [[50,21,23,1,84],[86,87,32,44,84],[6,12,62,73,84]]
+		patterns: [[85,61,29,88,84],[92,8,94,26,84],[43,119,90,90,84]]
 	},
 	{
 		title: "Traduza: σάββατον, τό",
 		explanation: "sábado.",
 		correct: 85,
-		patterns: [[45,30,85,106,8],[29,84,21,56,85],[13,3,81,80,85]]
+		patterns: [[40,6,25,118,85],[73,67,26,13,85],[38,129,108,36,85]]
 	},
 	{
 		title: "Traduza: τέκνον, τό",
 		explanation: "criança; filho.",
 		correct: 86,
-		patterns: [[59,36,22,46,86],[20,4,44,14,86],[47,97,21,3,86]]
+		patterns: [[46,55,27,55,86],[127,11,54,100,86],[88,116,125,85,86]]
 	},
 	{
 		title: "Traduza: τόπος, ὁ",
 		explanation: "lugar.",
 		correct: 87,
-		patterns: [[11,36,48,72,87],[85,22,88,75,87],[21,77,58,33,87]]
+		patterns: [[43,41,131,113,87],[126,59,17,38,87],[84,2,92,98,87]]
 	},
 	{
 		title: "Traduza: υἱός, ὁ",
 		explanation: "filho.",
 		correct: 88,
-		patterns: [[71,91,33,109,88],[42,91,74,73,88],[93,70,59,77,88]]
+		patterns: [[22,110,19,1,88],[27,5,22,52,88],[38,109,101,61,88]]
 	},
 	{
 		title: "Traduza: χρόνος, ὁ",
 		explanation: "tempo.",
 		correct: 89,
-		patterns: [[6,96,42,64,89],[69,64,70,43,89],[77,58,54,103,89]]
+		patterns: [[60,72,98,107,89],[76,130,120,18,89],[76,79,90,27,89]]
 	},
 	{
 		title: "Traduza: ἀγάπη, ἡ",
 		explanation: "amor.",
 		correct: 90,
-		patterns: [[35,5,38,50,90],[7,22,80,83,90],[100,13,91,69,90]]
+		patterns: [[57,121,98,104,90],[74,59,1,1,90],[30,86,60,65,90]]
 	},
 	{
 		title: "Traduza: ἀλήθεια, ἡ",
 		explanation: "verdade.",
 		correct: 91,
-		patterns: [[77,66,29,103,91],[6,44,3,108,91],[100,34,39,8,91]]
+		patterns: [[103,87,27,115,91],[85,118,30,17,91],[7,104,28,92,91]]
 	},
 	{
 		title: "Traduza: βασιλεία, ἡ",
 		explanation: "reino; reinado, domínio real.",
 		correct: 92,
-		patterns: [[16,32,42,63,92],[8,37,59,20,92],[96,63,51,3,92]]
+		patterns: [[112,105,17,15,92],[13,94,111,63,92],[38,34,87,40,92]]
 	},
 	{
 		title: "Traduza: γλῶσσα, ἡ",
 		explanation: "língua; linguagem, idioma.",
 		correct: 93,
-		patterns: [[33,55,73,31,93],[63,74,24,83,93],[95,60,22,97,93]]
+		patterns: [[35,92,4,25,93],[110,59,15,124,93],[101,26,55,49,93]]
 	},
 	{
 		title: "Traduza: γραφή, ἡ",
 		explanation: "escrito, Escritura.",
 		correct: 94,
-		patterns: [[32,99,39,6,94],[38,7,1,46,94],[84,41,49,32,94]]
+		patterns: [[120,126,72,23,94],[113,11,56,79,94],[3,6,66,102,94]]
 	},
 	{
 		title: "Traduza: δόξα, ἡ",
 		explanation: "glória.",
 		correct: 95,
-		patterns: [[57,95,94,21,95],[7,84,15,85,95],[36,58,48,97,95]]
+		patterns: [[127,36,118,42,95],[98,56,116,20,95],[6,53,107,45,95]]
 	},
 	{
 		title: "Traduza: ἐκκλησία, ἡ",
 		explanation: "assembleia, reunião; igreja, congregação.",
 		correct: 96,
-		patterns: [[3,53,83,78,96],[97,1,71,24,96],[63,12,103,10,96]]
+		patterns: [[119,31,86,12,96],[62,60,31,105,96],[94,38,88,121,96]]
 	},
 	{
 		title: "Traduza: ζωή, ἡ",
 		explanation: "vida (no sentido físico e espiritual).",
 		correct: 97,
-		patterns: [[0,12,58,93,97],[18,45,21,30,97],[79,105,68,63,97]]
+		patterns: [[48,25,53,88,97],[120,26,84,14,97],[54,121,93,41,97]]
 	},
 	{
 		title: "Traduza: ἡμέρα, ἡ",
 		explanation: "dia.",
 		correct: 98,
-		patterns: [[17,109,3,68,98],[69,1,25,43,98],[89,46,95,47,98]]
+		patterns: [[56,33,16,5,98],[131,126,111,36,98],[46,83,10,85,98]]
 	},
 	{
 		title: "Traduza: μαθητής, ὁ",
 		explanation: "discípulo, aprendiz.",
 		correct: 99,
-		patterns: [[66,42,81,36,99],[70,48,70,78,99],[109,95,17,3,99]]
+		patterns: [[11,61,60,111,99],[86,77,15,93,99],[68,117,12,86,99]]
 	},
 	{
 		title: "Traduza: Μεσσίας, ὁ",
 		explanation: "Messías, Ungido.",
 		correct: 100,
-		patterns: [[96,16,34,92,100],[28,103,25,60,100],[80,95,46,48,100]]
+		patterns: [[67,16,114,122,100],[84,75,7,15,100],[12,85,107,101,100]]
 	},
 	{
 		title: "Traduza: νεανίας, ὁ",
 		explanation: "jovem, moço.",
 		correct: 101,
-		patterns: [[92,15,1,6,101],[11,72,40,72,101],[39,31,21,92,101]]
+		patterns: [[57,106,76,100,101],[79,77,106,37,101],[5,38,93,126,101]]
 	},
 	{
 		title: "Traduza: οἰκία, ἡ",
 		explanation: "casa, família.",
 		correct: 102,
-		patterns: [[10,27,45,28,102],[17,36,49,16,102],[36,102,14,103,14]]
+		patterns: [[109,117,121,130,102],[33,41,79,77,102],[32,61,123,8,102]]
 	},
 	{
 		title: "Traduza: παραβολή, ἡ",
 		explanation: "parábola; ilustração.",
 		correct: 103,
-		patterns: [[13,76,89,83,103],[66,94,18,80,103],[77,45,34,100,103]]
+		patterns: [[56,99,52,26,103],[41,42,84,26,103],[122,45,113,118,103]]
 	},
 	{
 		title: "Traduza: προφήτης, ὁ",
 		explanation: "profeta.",
 		correct: 104,
-		patterns: [[44,50,78,73,104],[108,99,27,69,104],[66,79,76,59,104]]
+		patterns: [[44,28,2,49,104],[59,46,44,11,104],[43,1,86,88,104]]
 	},
 	{
 		title: "Traduza: σοφία, ἡ",
 		explanation: "sabedoria.",
 		correct: 105,
-		patterns: [[70,52,3,39,105],[107,6,27,60,105],[94,2,37,11,105]]
+		patterns: [[88,32,5,61,105],[24,53,85,64,105],[128,86,20,32,105]]
 	},
 	{
 		title: "Traduza: συναγωγή, ἡ",
 		explanation: "sinagoga; assembleia, reunião.",
 		correct: 106,
-		patterns: [[37,81,102,58,106],[46,1,43,99,106],[64,54,37,95,106]]
+		patterns: [[7,120,15,114,106],[88,95,64,84,106],[9,35,105,20,106]]
 	},
 	{
 		title: "Traduza: σωτηρία, ἡ",
 		explanation: "salvação, libertação, preservação.",
 		correct: 107,
-		patterns: [[104,101,55,69,107],[108,57,24,75,107],[45,87,13,13,107]]
+		patterns: [[114,108,57,52,107],[51,123,116,63,107],[49,19,11,35,107]]
 	},
 	{
 		title: "Traduza: ψυχή, ἡ",
 		explanation: "alma; vida.",
 		correct: 108,
-		patterns: [[19,2,19,4,108],[36,20,109,50,108],[40,71,35,44,108]]
+		patterns: [[70,36,119,21,108],[38,115,56,20,108],[48,65,9,66,108]]
 	},
 	{
 		title: "Traduza: ἀγαθός, -ή, -όν",
 		explanation: "bom; reto.",
 		correct: 109,
-		patterns: [[97,78,71,106,109],[49,83,86,92,109],[4,13,26,40,109]]
+		patterns: [[3,122,5,46,109],[92,116,125,3,109],[99,50,80,112,109]]
+	},
+	{
+		title: "Traduza: ἀγαπητός, -ή, -όν",
+		explanation: "amado.",
+		correct: 110,
+		patterns: [[47,131,106,25,110],[34,6,94,105,110],[44,80,9,106,110]]
+	},
+	{
+		title: "Traduza: ἅγιος, -ία, -ον",
+		explanation: "santo; consagrado, separado por ou para DEUS.",
+		correct: 111,
+		patterns: [[92,19,45,6,111],[96,105,108,110,111],[116,58,26,54,111]]
+	},
+	{
+		title: "Traduza: αἰώνιος, -ον",
+		explanation: "eterno.",
+		correct: 112,
+		patterns: [[75,102,22,92,112],[11,111,16,5,112],[101,72,21,40,112]]
+	},
+	{
+		title: "Traduza: ἄλλος, -η, -ο",
+		explanation: "outro (da mesma espécie).",
+		correct: 113,
+		patterns: [[12,9,25,3,113],[76,44,35,6,113],[80,27,129,9,113]]
+	},
+	{
+		title: "Traduza: ἁμαρτωλός, -όν",
+		explanation: "pecaminoso.",
+		correct: 114,
+		patterns: [[77,83,130,47,114],[121,114,85,122,102],[125,38,23,2,114]]
+	},
+	{
+		title: "Traduza: δίκαιος, -α, -ον",
+		explanation: "justo;reto.",
+		correct: 115,
+		patterns: [[8,15,36,59,115],[122,44,89,79,115],[9,120,92,3,115]]
+	},
+	{
+		title: "Traduza: ἔσχατος, -η, -ον",
+		explanation: "último.",
+		correct: 116,
+		patterns: [[15,46,77,87,116],[41,119,126,13,116],[126,89,63,61,116]]
+	},
+	{
+		title: "Traduza: ἕτερος, -α, -ον",
+		explanation: "outro (de natureza diferente).",
+		correct: 117,
+		patterns: [[2,18,118,74,117],[43,87,123,73,117],[14,15,60,100,117]]
+	},
+	{
+		title: "Traduza: καινός, -ή, -όν",
+		explanation: "novo (no sentido de inédito, novidade).",
+		correct: 118,
+		patterns: [[13,11,79,94,118],[61,72,70,92,118],[94,125,102,24,118]]
+	},
+	{
+		title: "Traduza: νέος, -α, -ον",
+		explanation: "novo;jovem;recente.",
+		correct: 119,
+		patterns: [[124,39,49,98,119],[111,41,6,76,119],[24,90,63,99,119]]
+	},
+	{
+		title: "Traduza: πιστός, -ή, -όν",
+		explanation: "fiel; confiável, fidedigno; crente, confiante.",
+		correct: 120,
+		patterns: [[90,34,43,78,120],[84,123,48,77,120],[79,47,104,9,120]]
+	},
+	{
+		title: "Traduza: πονηρός, α, όν",
+		explanation: "mau, maligno.",
+		correct: 121,
+		patterns: [[18,19,70,70,121],[116,122,47,90,121],[32,99,68,91,121]]
+	},
+	{
+		title: "Traduza: κακός, -ή, -όν",
+		explanation: "mau; ruim.",
+		correct: 122,
+		patterns: [[68,109,51,65,122],[101,26,35,24,122],[52,47,31,85,122]]
+	},
+	{
+		title: "Traduza: καλός, -ή, -όν",
+		explanation: "bom; lindo, belo.",
+		correct: 123,
+		patterns: [[115,88,99,38,123],[130,81,69,62,123],[94,94,72,71,123]]
+	},
+	{
+		title: "Traduza: μόνος, -η, -ον",
+		explanation: "único, só, o neutro μόνον é usado como adv.: só, somente.",
+		correct: 124,
+		patterns: [[117,128,9,114,124],[106,61,59,42,124],[21,109,8,26,124]]
+	},
+	{
+		title: "Traduza: νεκρός, -ά, -όν",
+		explanation: "morto.",
+		correct: 125,
+		patterns: [[89,52,42,16,125],[31,43,127,125,19],[118,45,45,78,125]]
+	},
+	{
+		title: "Traduza: πνευματικός, -ή, -όν",
+		explanation: "espiritual.",
+		correct: 126,
+		patterns: [[24,12,60,29,126],[37,8,34,19,126],[66,116,84,55,126]]
+	},
+	{
+		title: "Traduza: πῶτος, -η, -ον",
+		explanation: "primeiro.",
+		correct: 127,
+		patterns: [[63,126,29,3,127],[69,78,127,84,45],[13,36,50,63,127]]
+	},
+	{
+		title: "Traduza: σάρκινος, -η, -ον",
+		explanation: "carnal, mundano.",
+		correct: 128,
+		patterns: [[53,126,19,24,128],[57,13,31,45,128],[95,124,4,96,128]]
+	},
+	{
+		title: "Traduza: ἀνά",
+		explanation: "c. ac.: para cima; acima, sobre; cada; Como prefixo: para cima; outra vez.",
+		correct: 129,
+		patterns: [[69,13,55,69,129],[105,49,36,77,129],[11,78,96,81,129]]
+	},
+	{
+		title: "Traduza: ἀντί",
+		explanation: "c. gen.: em lugar de; em troca de; por; Como prefixo: oposto a, contra.",
+		correct: 130,
+		patterns: [[82,113,25,87,130],[49,73,83,77,130],[67,43,40,111,130]]
+	},
+	{
+		title: "Traduza: ἀπό",
+		explanation: "c. abl.: de, desde; da parte de.",
+		correct: 131,
+		patterns: [[18,97,127,96,131],[90,17,5,10,131],[58,103,130,73,131]]
 	}],
 answers:[
 {id:0, text:"eu vou; guio; conduzo"}
@@ -772,5 +904,27 @@ answers:[
 ,{id:107, text:"salvação, libertação, preservação"}
 ,{id:108, text:"alma; vida"}
 ,{id:109, text:"bom; reto"}
+,{id:110, text:"amado"}
+,{id:111, text:"santo; consagrado, separado por ou para DEUS"}
+,{id:112, text:"eterno"}
+,{id:113, text:"outro (da mesma espécie)"}
+,{id:114, text:"pecaminoso"}
+,{id:115, text:"justo;reto"}
+,{id:116, text:"último"}
+,{id:117, text:"outro (de natureza diferente)"}
+,{id:118, text:"novo (no sentido de inédito, novidade)"}
+,{id:119, text:"novo;jovem;recente"}
+,{id:120, text:"fiel; confiável, fidedigno; crente, confiante"}
+,{id:121, text:"mau, maligno"}
+,{id:122, text:"mau; ruim"}
+,{id:123, text:"bom; lindo, belo"}
+,{id:124, text:"único, só"}
+,{id:125, text:"morto"}
+,{id:126, text:"espiritual"}
+,{id:127, text:"primeiro"}
+,{id:128, text:"carnal, mundano"}
+,{id:129, text:"c. ac.: para cima; acima, sobre; cada; Como prefixo: para cima; outra vez"}
+,{id:130, text:"c. gen.: em lugar de; em troca de; por; Como prefixo: oposto a, contra"}
+,{id:131, text:"c. abl.: de, desde; da parte de"}
 ],randomize: false
 }
