@@ -130,3 +130,29 @@ Traduza: σάρκινος, -η, -ον@carnal, mundano@carnal, mundano
 Traduza: ἀνά@c. ac.: para cima; acima, sobre; cada; Como prefixo: para cima; outra vez@c. ac.: para cima; acima, sobre; cada; Como prefixo: para cima; outra vez
 Traduza: ἀντί@c. gen.: em lugar de; em troca de; por; Como prefixo: oposto a, contra@c. gen.: em lugar de; em troca de; por; Como prefixo: oposto a, contra
 Traduza: ἀπό@c. abl.: de, desde; da parte de@c. abl.: de, desde; da parte de
+Traduza: διά@c. gen.: por; por meio de; através de; c. ac.: por causa de@c. gen.: por; por meio de; através de; c. ac.: por causa de
+Traduza: εἰς@c. ac.: para; para dentro; em; até@c. ac.: para; para dentro; em; até
+Traduza: ἐκ, ἐξ@c. abl.: de; de dentro de; a partir de@c. abl.: de; de dentro de; a partir de
+Traduza: ἐν@c. loc.: em, dentro de, no meio de; entre; com, por@c. loc.: em, dentro de, no meio de; entre; com, por
+Traduza: ἐπί@c. gen., loc. e ac.: sobre, em, em cima de; acima; no tempo de, durante@c. gen., loc. e ac.: sobre, em, em cima de; acima; no tempo de, durante
+Traduza: κατά@c. gen.: sobre; por; c. abl.: para baixo; contra; por; c. ac.: segundo, conforme; por@c. gen.: sobre; por; c. abl.: para baixo; contra; por; c. ac.: segundo, conforme; por
+Traduza: μετά@c. gen.: com, junto a; entre; c. ac.: depois de, após@c. gen.: com, junto a; entre; c. ac.: depois de, após
+Traduza: παρά@c. abl.: de, da parte de; c. loc.: perto de, junto de, ao lado de; c. ac.: para o lado de, perto de, ao longo de; em comparação com@c. abl.: de, da parte de; c. loc.: perto de, junto de, ao lado de; c. ac.: para o lado de, perto de, ao longo de; em comparação com
+Traduza: περί@c. gen.: concernente a, acerca de, sobre; c. ac.: ao redor de, em volta de@c. gen.: concernente a, acerca de, sobre; c. ac.: ao redor de, em volta de
+Traduza: πρό@c. abl.: antes de, antes@c. abl.: antes de, antes
+Traduza: πρός@c. abl. ou gen.: (necessário) para; c. loc.: perto de, junto a; c. ac.: para; em direção a; com@c. abl. ou gen.: (necessário) para; c. loc.: perto de, junto a; c. ac.: para; em direção a; com
+Traduza: σύν@c. ins.: com (expressando companinha, associação)@c. ins.: com (expressando companinha, associação)
+Traduza: ὑπέρ@c. abl.: por; em lugar de; em favor de; c. ac.: sobre, acima de, além de@c. abl.: por; em lugar de; em favor de; c. ac.: sobre, acima de, além de
+Traduza: ὑπό@c. abl.: por, por meio de; c ac.: sob, debaixo de; abaixo de@c. abl.: por, por meio de; c ac.: sob, debaixo de; abaixo de
+Traduza: ἁμαρτία, ἡ@pecado@pecado
+Traduza: ἀρχή, ἡ@começo, início, origem, princípio@começo, início, origem, princípio
+Traduza: γῆ, ἡ@terra@terra
+Traduza: δέ@mas, porém, no entanto; ora, então; e, também@mas, porém, no entanto; ora, então; e, também
+Traduza: δικαιοσύνη, ἡ@justiça@justiça
+Traduza: εἰρήνη, ἡ@paz@paz
+Traduza: ἐξουσία, ἡ@autoridade, poder@autoridade, poder
+Traduza: καρδία, ἡ@coração@coração
+Traduza: χαρά, ἡ@alegria, gozo@alegria, gozo
+Traduza: Χριστός, ὁ@Cristo (ungido, no hebraico: Messias)@Cristo (ungido, no hebraico: Messias)
+Traduza: ὡς@Partíc. comparativa: como, assim como; Conj.: como; Temporal: quando; Resultado: de modo que; Propósito: a fim de que; c. Numerais: cerca de@Partíc. comparativa: como, assim como; Conj.: como; Temporal: quando; Resultado: de modo que; Propósito: a fim de que; c. Numerais: cerca de
+Traduza: ἀλλά@conj. adversativa: mas, porém; exceto@mas, porém; exceto
