@@ -156,3 +156,23 @@ Traduza: χαρά, ἡ@alegria, gozo@alegria, gozo
 Traduza: Χριστός, ὁ@Cristo (ungido, no hebraico: Messias)@Cristo (ungido, no hebraico: Messias)
 Traduza: ὡς@Partíc. comparativa: como, assim como; Conj.: como; Temporal: quando; Resultado: de modo que; Propósito: a fim de que; c. Numerais: cerca de@Partíc. comparativa: como, assim como; Conj.: como; Temporal: quando; Resultado: de modo que; Propósito: a fim de que; c. Numerais: cerca de
 Traduza: ἀλλά@conj. adversativa: mas, porém; exceto@mas, porém; exceto
+Traduza: ἀναβαίνω@eu subo@eu subo
+Traduza: γάρ@Conj. causal, Propos.: pois, portanto@Conj. causal, Propos.: pois, portanto
+Traduza: γέ@Partíc. enclítica, Propos., serve para dar ênfase a uma palavra: na verdade, realmente, de fato; pelo menos@Partíc. enclítica, Propos., serve para dar ênfase a uma palavra: na verdade, realmente, de fato; pelo menos
+Traduza: ἐάν@conj. (com o subj.): se@conj. (com o subj.): se
+Traduza: εἰ@conj. (com o ind.): se@conj. (com o ind.): se
+Traduza: ἐκεῖνος, -η, -ο@Pron. demonstrativo: aquele, aquela, aquilo@Pron. demonstrativo: aquele, aquela, aquilo
+Traduza: ἐντολή, -ῆς, -ἡ@mandamento, ordem@mandamento, ordem
+Traduza: ἐπιγινώσκω@eu conheço (bem); entendo; reconheço@eu conheço (bem); entendo; reconheço
+Traduza: καταβαίνω@eu desço@eu desço
+Traduza: μετανοέω@lit.: eu mudo a mente; mudo a vida/o comportamento; me converto; me arrependo@lit.: eu mudo a mente; mudo a vida/o comportamento; me converto; me arrependo
+Traduza: ὅς, ἥ, ὅ@pronome relativo: o qual, a qual; que@pronome relativo: o qual, a qual; que
+Traduza: ὅστις, ἥτις, ὅ τι@pronome relativo: quem quer que, qualquer que. Com frequência equivale a ὅς, ἥ, ὅ@Pronome relativo: quem quer que, qualquer que
+Traduza: οὗτος, αὕτη, τοῦτο@pronome demonstrativo: este, esta, isto@pronome demonstrativo: este, esta, isto
+Traduza: παραλαμβάνω@ eu tomo, levo comigo; recebo; aceito@ eu tomo, levo comigo; recebo; aceito
+Traduza: πᾶς, πᾶσα, πᾶν@todo; cada; inteiro@todo; cada; inteiro
+Traduza: προσφέρω@eu trago; ofereço@eu trago; ofereço
+Traduza: τίς, τί@Pron. interrogativo: quem? que? qual? que tipo de?@Pron. interrogativo: quem? que? qual? que tipo de?
+Traduza: τοιοῦτος, -αύτη, -οῦτόν@tal, desse tipo@tal, desse tipo
+Traduza: τις, τι@pronome indefinido, enclítico: qualquer um, algum, alguém; alguma coisa@pronome indefinido, enclítico: qualquer um, algum, alguém; alguma coisa
+Traduza: ἀπέρχομαι@eu parto, saio; vou@eu parto, saio; vou
