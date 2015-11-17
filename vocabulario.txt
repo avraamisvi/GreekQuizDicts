@@ -176,3 +176,8 @@ Traduza: τίς, τί@Pron. interrogativo: quem? que? qual? que tipo de?@Pron. i
 Traduza: τοιοῦτος, -αύτη, -οῦτόν@tal, desse tipo@tal, desse tipo
 Traduza: τις, τι@pronome indefinido, enclítico: qualquer um, algum, alguém; alguma coisa@pronome indefinido, enclítico: qualquer um, algum, alguém; alguma coisa
 Traduza: ἀπέρχομαι@eu parto, saio; vou@eu parto, saio; vou
+Traduza: ἀποθνῄσκω@eu morro@eu morro
+Traduza: ἀποκρίνομαι@eu respondo@eu respondo
+Traduza: ἀποστέλλω@eu envio@eu envio
+Traduza: γίνομαι@eu sou; venho a ser; me torno; acontecer@eu sou; venho a ser; me torno; acontecer
+Traduza: 
