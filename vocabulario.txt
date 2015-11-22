@@ -4,6 +4,7 @@ Traduza: βάλλω@eu lanço, jogo@eu lanço, jogo
 Traduza: γινώσκω@conheço, venho a conhecer, sei; compreendo, reconheço@conheço, venho a conhecer, sei; compreendo, reconheço
 Traduza: γράφω@eu escrevo@eu escrevo
 Traduza: διδάσκω@eu ensino@eu ensino
+Traduza: σκότος, ους, τό@escuridão, trevas@escuridão, trevas
 Traduza: εὑρίσκω@eu acho, encontro@eu acho, encontro
 Traduza: θέλω@eu desejo, quero@eu desejo, quero
 Traduza: λέγω@eu digo, falo@eu digo, falo
@@ -125,7 +126,7 @@ Traduza: καλός, -ή, -όν@bom; lindo, belo@bom; lindo, belo
 Traduza: μόνος, -η, -ον@único, só, o neutro μόνον é usado como adv.: só, somente@único, só
 Traduza: νεκρός, -ά, -όν@morto@morto
 Traduza: πνευματικός, -ή, -όν@espiritual@espiritual
-Traduza: πῶτος, -η, -ον@primeiro@primeiro
+Traduza: πρῶτος, -η, -ον@primeiro@primeiro
 Traduza: σάρκινος, -η, -ον@carnal, mundano@carnal, mundano
 Traduza: ἀνά@c. ac.: para cima; acima, sobre; cada; Como prefixo: para cima; outra vez@c. ac.: para cima; acima, sobre; cada; Como prefixo: para cima; outra vez
 Traduza: ἀντί@c. gen.: em lugar de; em troca de; por; Como prefixo: oposto a, contra@c. gen.: em lugar de; em troca de; por; Como prefixo: oposto a, contra
@@ -180,4 +181,71 @@ Traduza: ἀποθνῄσκω@eu morro@eu morro
 Traduza: ἀποκρίνομαι@eu respondo@eu respondo
 Traduza: ἀποστέλλω@eu envio@eu envio
 Traduza: γίνομαι@eu sou; venho a ser; me torno; acontecer@eu sou; venho a ser; me torno; acontecer
-Traduza: 
+Traduza: δέχομαι@eu pego; recebo, aceito; acolho@eu pego; recebo, aceito; acolho
+Traduza: διέρχομαι@eu atravesso; passo (por)@eu atravesso; passo (por)
+Traduza: διώκω@eu persigo, sigo@eu persigo, sigo
+Traduza: δύναμαι@eu posso, sou capaz@eu posso, sou capaz
+Traduza: εἰσέρχομαι@eu entro@eu entro
+Traduza: ἐκβάλλω@eu expulso, lanço fora; envio; tiro, removo
+Traduza: ἐξέρχομαι@eu saio@eu saio
+Traduza: ἔρχομαι@eu vou; venho@eu vou; venho
+Traduza: ἐσθίω@eu como@eu como
+Traduza: θεραπεύω@eu cuido de; curo, saro@eu cuido de; curo, saro
+Traduza: Ἰησοῦς@Jesus@Jesus
+Traduza: πορεύομαι@eu vou; ando, vivo@eu vou; ando, vivo
+Traduza: προσέρχομαι@eu vou (para); me aproximo@eu vou (para); me aproximo
+Traduza: ὅρταν@conjução: quando, sempre que@conjução: quando, sempre que
+Traduza: ἀκολουθέω@eu sigo, acompanho@eu sigo, acompanho
+Traduza: βασιλεύω@eu reino; sou (ou: me torno) rei@eu reino; sou (ou: me torno) rei
+Traduza: διακονέω@eu sirvo; cuido de@eu sirvo; cuido de
+Traduza: δοκέω@eu penso; considero; parece(-me)@eu penso; considero; parece(-me)
+Traduza: ἐπερωτάω@eu pergunto@eu pergunto
+Traduza: εὐλογέω@eu louvo; agradeço; bendigo, abençoo@eu louvo; agradeço; bendigo, abençoo
+Traduza: θεωρέω@eu contemplo, vejo@eu contemplo, vejo
+Traduza: καταλύω@eu destruo; revogo@eu destruo; revogo
+Traduza: κρατέω@eu me apodero de; seguro; agarro@eu me apodero de; seguro; agarro
+Traduza: νομίζω@eu considero, penso, suponho@eu considero, penso, suponho
+Traduza: οἰκοδομέω@eu construo, reconstruo, edifico@eu construo, reconstruo, edifico
+Traduza: παρακαλέω@eu chamo; exorto; conforto, encorajo, animo@eu chamo; exorto; conforto, encorajo, animo
+Traduza: περιπατέω@eu ando (ao redor); vivo; me comporto@eu ando (ao redor); vivo; me comporto
+Traduza: σταυρόω@eu crucifico@eu crucifico
+Traduza: φιλέω@eu amo@eu amo
+Traduza: ἔξω@adv.: fora, de fora; c. gen.: fora de@adv.: fora, de fora; c. gen.: fora de
+Traduza: ἤδη@adv.: já, agora, finalmente@adv.: já, agora, finalmente
+Traduza: ὅτι@conj.: que, de modo que; pois, porque, visto que@conj.: que, de modo que; pois, porque, visto que
+Traduza: ἁγιάζω@eu santifico; consagro, separo para DEUS@eu santifico; consagro, separo para DEUS
+Traduza: ἀδικέω@eu ajo injustamente; faço o mal; causo dano; prejudico@eu ajo injustamente; faço o mal; causo dano; prejudico
+Traduza: δοξάζω@eu glorifico; honro@eu glorifico; honro
+Traduza: ἐγγίζο@eu me aproximo@eu me aproximo
+Traduza: ἑτοιμάζω@eu preparo@eu preparo
+Traduza: καλέω@eu chamo; convido; convoco@eu chamo; convido; convoco
+Traduza: μισέω@eu odeio; detesto; aborreço@eu odeio; detesto; aborreço
+Traduza: νικάω@eu sou vitorioso; venço; conquisto@eu sou vitorioso; venço; conquisto
+Traduza: πειράζω@eu tento; ponho à prova, testo@eu tento; ponho à prova, testo
+Traduza: πλανάω@eu desvio; engano@eu desvio; engano
+Traduza: τελειόω@eu completo, acabo; cumpro; aperfeiçoo@eu completo, acabo; cumpro; aperfeiçoo
+Traduza: τελέω@eu termino, completo; cumpro@eu termino, completo; cumpro
+Traduza: διάνοια, ἡ@mente, entendimento@mente, entendimento
+Traduza: ἐπιθυμία, ἡ@desejo, anseio; paixão (em geral impura)@desejo, anseio; paixão (em geral impura)
+Traduza: νῦν / νυνί@adv.:agora (νυνί = forma enfática)@adv.: agora
+Traduza: ὅπου@adv.: onde, onde quer quer@adv.: onde, onde quer quer
+Traduza: σκοτία, ἡ@escuridão, trevas@escuridão, trevas
+Traduza: σοφός, -ή, -όν@sábio; experiente@sábio; experiente
+Traduza: αἷμα, -ατος, τό@sangue@sangue
+Traduza: αἰών, αἰῶνος, ὁ@eternidade; era, século; mundo@eternidade; era, século; mundo
+Traduza: ἀνήρ, ἀνδρός, ὁ@homem; varão; marido; ser humano@homem; varão; marido; ser humano
+Traduza: ἄρχων, -οντος, ὁ@líder; príncipe; senhor@líder; príncipe; senhor
+Traduza: ἐλπίς, -ίδος, ἡ@esperança@esperança
+Traduza: θέλημα, -ατος, τό@vontade@vontade
+Traduza: μήτηρ, μητρός, ἡ@mãe@mãe
+Traduza: νύξ, νυκτός, ἡ@noite@noite
+Traduza: ὄνομα, -ατος, τό@nome; pessoa; reputação, fama@nome; pessoa; reputação, fama
+Traduza: πατήρ, πατρός, ὁ@pai@pai
+Traduza: πνεῦμα, -ατος, τό@vento; sopro; espírito; Espírito@vento; sopro; espírito; Espírito
+Traduza: πούς, ποδός, ὁ@pé@pé
+Traduza: πῦρ, πυρός, τό@fogo@fogo
+Traduza: ῥῆμα, -ατος, τό@palavra (escrita ou falada); coisa@palavra (escrita ou falada); coisa
+Traduza: στόμα, -ατος, τό@boca@boca
+Traduza: σῶμα, -ατος, τό@corpo@corpo
+Traduza: ὕδωρ, ὕδατος, τό@água@água
+Traduza: χάρις, -ιτος, ἡ@graça@graça
