@@ -186,7 +186,7 @@ Traduza: διέρχομαι@eu atravesso; passo (por)@eu atravesso; passo (por)
 Traduza: διώκω@eu persigo, sigo@eu persigo, sigo
 Traduza: δύναμαι@eu posso, sou capaz@eu posso, sou capaz
 Traduza: εἰσέρχομαι@eu entro@eu entro
-Traduza: ἐκβάλλω@eu expulso, lanço fora; envio; tiro, removo
+Traduza: ἐκβάλλω@eu expulso, lanço fora; envio; tiro, removo@eu expulso, lanço fora; envio; tiro, removo
 Traduza: ἐξέρχομαι@eu saio@eu saio
 Traduza: ἔρχομαι@eu vou; venho@eu vou; venho
 Traduza: ἐσθίω@eu como@eu como
