@@ -249,3 +249,58 @@ Traduza: στόμα, -ατος, τό@boca@boca
 Traduza: σῶμα, -ατος, τό@corpo@corpo
 Traduza: ὕδωρ, ὕδατος, τό@água@água
 Traduza: χάρις, -ιτος, ἡ@graça@graça
+Traduza: ἀνάστασις, -εως, ἡ@ressurreição@ressurreição
+Traduza: ἀρχιερεύς, -έως, ὁ@sumo sacerdote@sumo sacerdote
+Traduza: βασιλεύς, -έως, ὁ@rei@rei
+Traduza: γένος, -ους, τό@raça; descendência; povo; espécie@raça; descendência; povo; espécie
+Traduza: γνῶσις, -εως, ἡ@conhecimento@conhecimento
+Traduza: γραμματεύς, -έως, ὁ@escriba@escriba
+Traduza: γυνή, αικός, ἡ@mulher; esposa@mulher; esposa
+Traduza: δύναμις, -εως, ἡ@poder; força, vigor; ato de poder, milagre; capacidade@poder; força, vigor; ato de poder, milagre; capacidade
+Traduza: ἔθνος, -ους, τό@nação, povo; pl.: gentios@nação, povo; pl.: gentios
+Traduza: θλίψις, -εως, ἡ@tribulação; aperto; aflição, angústia@tribulação; aperto; aflição, angústia
+Traduza: κενός, -ή, όν@vazio, vão@vazio, vão
+Traduza: κρίσις, -εως, ἡ@juízo, julgamento; sentença; condenação; justiça@juízo, julgamento; sentença; condenação; justiça
+Traduza: μάστιξ, -ιγος, ἡ@açoite; sofrimento@açoite; sofrimento
+Traduza: ὅτε @partíc.: quando; enquanto@partíc.: quando; enquanto
+Traduza: ὅταν (ὅτε + ἄν)@partíc. temp.: sempre que; quando@partíc. temp.: sempre que; quando
+Traduza: οὕτω / οὕτως@adv.: assim, desta maneira, deste modo@adv.: assim, desta maneira, deste modo
+Traduza: ποῦ@adv.: de interrogação: onde?; para onde?@adv.: de interrogação: onde?; para onde?
+Traduza: ἀληθής, -ές@verdadeiro@verdadeiro
+Traduza: ἀσθενής, -ές@fraco; doente@fraco; doente
+Traduza: ἀσχήμων, -ον@indecente, indecoroso@indecente, indecoroso
+Traduza: βαθύς, -εῖα, -ύ@profundo@profundo
+Traduza: μέγας, μεγάλη, μέγα@grande@grande
+Traduza: μονογενής, -ές@único, unigênito@único, unigênito
+Traduza: ὅδος, -η, -ον@pron. correlativo: quanto; o que; tão grande quanto (ou: que); tantos quantos@pron. correlativo: quanto; o que; tão grande quanto (ou: que); tantos quantos
+Traduza: πολύς, πολλή, πολύ@muito@muito
+Traduza: ὑγινής, -ές@são; saudável@são; saudável
+Traduza: γάμος, ὁ@casamento; bodas@casamento; bodas
+Traduza: ἔτος, -ους, τό@ano@ano
+Traduza: θάλλασσα, -ης, ἡ@mar@mar
+Traduza: λογίζομαι@eu calculo; avalio; considero; penso@eu calculo; avalio; considero; penso
+Traduza: μέρος, -ους, τό@parte; pedaço@parte; pedaço
+Traduza: ὄρος, -ους, τό@monte, montanha@monte, montanha
+Traduza: πλῆθος, -ους, τό@quantidade; multidão@quantidade; multidão
+Traduza: προσευχή, -ῆς, ἡ@oração@oração
+Traduza: τέλος, -ους, τό@fim@fim
+Traduza: ὑπάγω@eu parto; vou@eu parto; vou
+Traduza: ψεῦδος, -ους, τό@mentira, falsidade; mentiroso@mentira, falsidade; mentiroso
+Traduza: ἄρτι@adv.: agora; agora mesmo; já; neste instante@adv.: agora; agora mesmo; já; neste instante
+Traduza: γενεά, -ᾶς, ἡ@geração; era@geração; era
+Traduza: δαιμόνιον, τό@demônio@demônio
+Traduza: ἐπαγγελία, ἡ@promessa@promessa
+Traduza: εὐαγγελίζω@na voz ativa e média: eu anuncio boas novas; evangelizo@na voz ativa e média: eu anuncio boas novas; evangelizo
+Traduza: εὐαγγέλιον, τό@boa notícia; evangelho@boa notícia; evangelho
+Traduza: ἤ@conj.: ou; Em compar.: que do que@conj.: ou; Em compar.: que do que
+Traduza: κεφαλή, ἡ@cabeça@cabeça
+Traduza: λαός, ὁ@povo@povo
+Traduza: ὅλος, -η, -ον@todo, inteiro, completo@todo, inteiro, completo
+Traduza: ποιμήν, -ένος, ὁ@pastor@pastor
+Traduza: πῶς@partíc. interrog.: como?, de que maneira?@partíc. interrog.: como?, de que maneira?
+Traduza: πώς@partíc. enclítica: de algum modo@partíc. enclítica: de algum modo
+Traduza: σωτήρ, -ῆρος, ὁ@salvador; libertador@salvador; libertador
+Traduza: τότε@adv.: naquela época, então@adv.: naquela época, então
+Traduza: φῶς, φωτός, τό@luz@luz
+Traduza: χείρ, χειρός, ἡ@mão@mão
+Traduza: ὥρα, -ας, ἡ@hora@hora
